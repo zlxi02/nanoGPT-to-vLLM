@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+venv/
+env/
+
+# Claude Code local settings
+.claude/
+
+# macOS
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
+.ipynb_checkpoints/
+
+# Model artifacts
+*.bin
+*.pt
+*.pth
+*.ckpt
+*.pkl
+
+# Data
+input.txt
